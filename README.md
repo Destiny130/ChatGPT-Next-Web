@@ -16,7 +16,7 @@ One-Click to deploy your own ChatGPT web UI.
 ![主界面](./static/cover.png)
 
 </div>
-
+ 
 ## 主要功能
 
 - 在 1 分钟内使用 Vercel **免费一键部署**
